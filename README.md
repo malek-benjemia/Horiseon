@@ -1,5 +1,8 @@
 # Horiseon Refactor
 
+Objective
+</br>
+Refractor Horiseon website so that it follows accessibility standards and hence becomes optimized for search engines
 
 Final link
 </br>
@@ -38,4 +41,4 @@ Files & directories
 
 When: 05-Dec-2020
 
-Built & designed by UofT. Fractored by Malek Ben Jemia
+Built & designed by UofT. Fractored by Malek Ben Jemia.
